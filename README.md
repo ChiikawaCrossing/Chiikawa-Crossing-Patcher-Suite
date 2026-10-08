@@ -92,7 +92,7 @@ I have created a GUI that does all the hard work for you, just indicate each fil
 
 --INCLUDED IN MOD-----------------------------------------------
 
-	This mod replaces the main menu, and overhauls the main character as Chiikawa, implements her friends as new town folk residents and 	workers, fitted clothing to the new character models, and expressive faces for each character. 
+	This mod replaces the main menu, and overhauls the main character as Chiikawa, implements her friends as new town folk residents and workers, fitted clothing to the new character models, and expressive faces for each character. 
 
 NOTE: Some special NPCs may remain unchanged depending on future versions. This is a beta test. I hope to fix this soon.
 
