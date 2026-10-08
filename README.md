@@ -20,13 +20,10 @@ CHIIKAWA CROSSING PATCHER v0.5.7 BETA
 Currently [as of 10/8/2026] testing Retroid-Pocket-6 and original hardware on my own devices.      
 Please do not test yourself unless you are aware of risks associated and their subsequent outcomes
 
-
-
-| The patcher runs offline, needs no installation or administrator access, and        | 
-| makes a NEW file. It never overwrites your input game, existing output or saves.    |
-| Cancellation or failure removes the unfinished copy.                                |
-| The output is checked against the same SHA-256 as the tested combined v0.5.7 beta.  |
-|              I will NEVER disseminate an illegal copy of the game.                  |
+	| The patcher runs offline, needs no installation or administrator access, and makes a NEW file. It never overwrites your input game, existing output or saves.    
+	| Cancellation or failure removes the unfinished copy. 
+	| The output is checked against the same SHA-256 as the tested combined v0.5.7 beta.
+	| I will NEVER disseminate an illegal copy of the game. 
 
  /I highly suggest using a legally source copy for this patch. Do not ask me for illegal warez/                   
 
