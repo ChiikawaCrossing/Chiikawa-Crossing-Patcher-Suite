@@ -1,9 +1,10 @@
 # Chiikawa-Crossing-Patcher-Suite
 This is a patching suite I created for the game Animal Crossing New Leaf, in which you can play as Chiikawa and have her friends as neighbors!
+<img width="800" height="800" alt="chiikawa_youtube_profile_transparent" src="https://github.com/user-attachments/assets/8d711319-6600-4522-83a4-62bc88411a83" />
 
 
 
-CHIIKAWA CROSSING PATCHER v0.5.4 BETA
+CHIIKAWA CROSSING PATCHER v0.5.7 BETA
 
 --QUICK START---------------------------------------------------
 
@@ -24,7 +25,7 @@ Please do not test yourself unless you are aware of risks associated and their s
 ***| The patcher runs offline, needs no installation or administrator access, and        |***
 ***| makes a NEW file. It never overwrites your input game, existing output or saves.    |***
 ***| Cancellation or failure removes the unfinished copy.                                |***
-***| The output is checked against the same SHA-256 as the tested combined v0.5.4 build. |***
+***| The output is checked against the same SHA-256 as the tested combined v0.5.7 beta.  |***
 ***|              I will NEVER disseminate an illegal copy of the game.                  |***
 
  /I highly suggest using a legally source copy for this patch. Do not ask me for illegal warez/                   
