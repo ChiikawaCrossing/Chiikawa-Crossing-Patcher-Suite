@@ -64,7 +64,7 @@ I have created a GUI that does all the hard work for you, just indicate each fil
 -- USAGE -- 
 
 	Run the DecryptionHelper.exe first.
-	Then patch the output decrypted game file using Chiikawa_Crossing_Patcher.exe
+	***Then patch the output decrypted game file using Chiikawa_Crossing_Patcher.exe*** 
 	Run the game through Azahar!
 	ENJOY!
 	
